@@ -1,0 +1,2 @@
+Digital Detective Terminal practice
+I used basic commands to create, display, copy, and rename this file.
